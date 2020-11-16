@@ -1,0 +1,13 @@
+com\example\demo\entity\Marque.class
+com\example\demo\entity\Categorie.class
+com\example\demo\entity\SousCategorie.class
+com\example\demo\security\JWTAuthorizationFilter.class
+com\example\demo\entity\Client.class
+com\example\demo\security\SecurityParams.class
+com\example\demo\entity\Fournisseur.class
+com\example\demo\entity\Article.class
+com\example\demo\entity\VenteFlash.class
+com\example\demo\security\SecurityConfig.class
+com\example\demo\service\CrudRestAdmin.class
+com\example\demo\RestServiceAdminApplication.class
+com\example\demo\controller\AdminController.class
